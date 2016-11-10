@@ -9,4 +9,11 @@ console.log("Name: " + myString);
 console.log("Lucky Number: " + myNumber);
 console.log("Good joke? " + myBoolean);
 
-2. console.log ('cheese','more cheese' );
+2.
+console.log ('cheese','more cheese' );
+
+3.
+console.log (19 + 3.5);
+console.log (2016-1969);
+console.log (65/240);
+console.log (65/240 * 100);
