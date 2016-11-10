@@ -40,3 +40,12 @@ console.log('But this just being short*/ of jaundice all the time confused them.
 var strength = "50,000 pounds";
 
 console.log ("How much stuff can a variable hold?", strength);
+
+8.
+var strength = '50,000 pounds';
+var age = 19;
+var hasPet = true; 
+
+console.log(age);
+console.log('How much stuff can a variable hold? ', strength);
+console.log (hasPet);
