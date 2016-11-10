@@ -54,3 +54,7 @@ console.log (hasPet);
 var morningAlarm = '6am';
 morningAlarm = "6:31AM";
 console.log ("Morning alarm is set to" + morningAlarm);
+
+10.
+var favoriteAnimal = 'Ric Flair';
+console.log('My favorite animal: ' + favoriteAnimal);
